@@ -8,6 +8,13 @@ Overview
 
 Sh_Project is designed to showcase how Java applications can efficiently interact with relational databases using JDBC. It follows a modular project structure and uses Maven for dependency management, making it easy to build, maintain, and extend.
 
+<img width="768" height="505" alt="image" src="https://github.com/user-attachments/assets/ef694b30-b24a-4a37-96eb-4c90f97d82ce" />
+
+
+
+
+
+
 Core Features
 Secure MySQL database connection using JDBC
 Structured Java package organization
