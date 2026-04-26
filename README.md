@@ -1,5 +1,5 @@
 # S.H.U.B.H.A.M_[v2.0]
-FILE ENCRYPTOR APP
+A Unique File Encrytor App in Java !
 
 
 A professionally structured Java application developed in IntelliJ IDEA with integrated JDBC and MySQL database connectivity. This project demonstrates practical implementation of Java-based database operations with a clean architecture, maintainable codebase, and scalable design suitable for real-world business applications.
